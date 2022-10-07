@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "961397931993",
+    "project_id": "be-pass-55b8a",
+    "storage_bucket": "be-pass-55b8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961397931993:android:6a5c2bdce897e926e4a3c8",
+        "android_client_info": {
+          "package_name": "com.bepass.bepass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961397931993-jpescua5nfvk9iciomh4ttfg530dp9ms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bepass.bepass",
+            "certificate_hash": "4fabd45db79d596e9c54f60fbf6a7c4413c5598e"
+          }
+        },
+        {
+          "client_id": "961397931993-uvb4g44ejg028tkgbu73va2kcjeeg278.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXiJvXJvAIAP_qwHZz7djQ0bo12j-NifE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961397931993-uvb4g44ejg028tkgbu73va2kcjeeg278.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "961397931993-2gvus7jpg75t7lat7neql3stqlglqme1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bepass.ios",
+                "app_store_id": "1641940144"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
